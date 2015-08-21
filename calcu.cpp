@@ -1,3 +1,5 @@
 this is my first github.
 So going through the standard norms "hello, world!" 
-:p
+
+I deleted the smiley.
+I am a harry potter fan.
